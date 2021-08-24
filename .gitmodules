@@ -1,3 +1,6 @@
 [submodule "waveglow2"]
 	path = waveglow2
 	url = https://github.com/NVIDIA/waveglow.git
+[submodule "apex"]
+	path = apex
+	url = https://github.com/NVIDIA/apex
